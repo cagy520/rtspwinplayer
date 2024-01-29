@@ -6,8 +6,11 @@ WinplayerForRtsp
 
 项目功能：
 在winform接收播放rtsp视频流
+
 检测视频变化相似度
+
 推送MQTT消息报警
+
 ![image](https://github.com/cagy520/rtspwinplayer/assets/9970419/ca429cec-5b22-4375-9112-8b829d26ea2b)
 
 
